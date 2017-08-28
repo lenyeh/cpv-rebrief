@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Button/Minus/Inactive</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Button/Minus/Inactive">
+            <g id="Group-2">
+                <path d="M30,15 C30,23.2845 23.2845,30 15,30 C6.7155,30 0,23.2845 0,15 C0,6.7155 6.7155,0 15,0 C23.2845,0 30,6.7155 30,15" id="Fill-1" fill="#E4E4E4"></path>
+                <path d="M3.765375,15 L3.765375,15 C3.765375,16.24275 4.772625,17.25 6.015375,17.25 L24.015375,17.25 C25.258125,17.25 26.265375,16.24275 26.265375,15 L26.265375,15 C26.265375,13.75725 25.258125,12.75 24.015375,12.75 L6.015375,12.75 C4.772625,12.75 3.765375,13.75725 3.765375,15" id="Fill-3" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
